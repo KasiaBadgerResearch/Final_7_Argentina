@@ -1,0 +1,28 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Argentina,ARG,2020,"International tourism, receipts (% of total exports)",ST.INT.RCPT.XP.ZS,2.641329466
+Argentina,ARG,2019,"International tourism, receipts (% of total exports)",ST.INT.RCPT.XP.ZS,7.07063914
+Argentina,ARG,2018,"International tourism, receipts (% of total exports)",ST.INT.RCPT.XP.ZS,7.776450365
+Argentina,ARG,2017,"International tourism, receipts (% of total exports)",ST.INT.RCPT.XP.ZS,7.860524841
+Argentina,ARG,2016,"International tourism, receipts (% of total exports)",ST.INT.RCPT.XP.ZS,7.657109367
+Argentina,ARG,2015,"International tourism, receipts (% of total exports)",ST.INT.RCPT.XP.ZS,7.770352221
+Argentina,ARG,2014,"International tourism, receipts (% of total exports)",ST.INT.RCPT.XP.ZS,6.897874143
+Argentina,ARG,2013,"International tourism, receipts (% of total exports)",ST.INT.RCPT.XP.ZS,5.801929549
+Argentina,ARG,2012,"International tourism, receipts (% of total exports)",ST.INT.RCPT.XP.ZS,6.005464449
+Argentina,ARG,2011,"International tourism, receipts (% of total exports)",ST.INT.RCPT.XP.ZS,6.20590596
+Argentina,ARG,2010,"International tourism, receipts (% of total exports)",ST.INT.RCPT.XP.ZS,6.909259852
+Argentina,ARG,2009,"International tourism, receipts (% of total exports)",ST.INT.RCPT.XP.ZS,6.715850377
+Argentina,ARG,2008,"International tourism, receipts (% of total exports)",ST.INT.RCPT.XP.ZS,6.463307133
+Argentina,ARG,2007,"International tourism, receipts (% of total exports)",ST.INT.RCPT.XP.ZS,7.607116078
+Argentina,ARG,2006,"International tourism, receipts (% of total exports)",ST.INT.RCPT.XP.ZS,7.199902644
+Argentina,ARG,2005,"International tourism, receipts (% of total exports)",ST.INT.RCPT.XP.ZS,6.843354152
+Argentina,ARG,2004,"International tourism, receipts (% of total exports)",ST.INT.RCPT.XP.ZS,6.690603601
+Argentina,ARG,2003,"International tourism, receipts (% of total exports)",ST.INT.RCPT.XP.ZS,6.715981269
+Argentina,ARG,2002,"International tourism, receipts (% of total exports)",ST.INT.RCPT.XP.ZS,5.906141906
+Argentina,ARG,2001,"International tourism, receipts (% of total exports)",ST.INT.RCPT.XP.ZS,8.856965228
+Argentina,ARG,2000,"International tourism, receipts (% of total exports)",ST.INT.RCPT.XP.ZS,10.22828105
+Argentina,ARG,1999,"International tourism, receipts (% of total exports)",ST.INT.RCPT.XP.ZS,11.34037167
+Argentina,ARG,1998,"International tourism, receipts (% of total exports)",ST.INT.RCPT.XP.ZS,10.72755076
+Argentina,ARG,1997,"International tourism, receipts (% of total exports)",ST.INT.RCPT.XP.ZS,10.16973049
+Argentina,ARG,1996,"International tourism, receipts (% of total exports)",ST.INT.RCPT.XP.ZS,10.4662293
+Argentina,ARG,1995,"International tourism, receipts (% of total exports)",ST.INT.RCPT.XP.ZS,10.21780678

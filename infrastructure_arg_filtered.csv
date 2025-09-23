@@ -1,0 +1,28 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Argentina,ARG,2020,Individuals using the Internet (% of population),IT.NET.USER.ZS,85.5
+Argentina,ARG,2019,Individuals using the Internet (% of population),IT.NET.USER.ZS,79.9
+Argentina,ARG,2018,Individuals using the Internet (% of population),IT.NET.USER.ZS,77.7
+Argentina,ARG,2017,Individuals using the Internet (% of population),IT.NET.USER.ZS,74.3
+Argentina,ARG,2016,Individuals using the Internet (% of population),IT.NET.USER.ZS,71
+Argentina,ARG,2015,Individuals using the Internet (% of population),IT.NET.USER.ZS,68
+Argentina,ARG,2014,Individuals using the Internet (% of population),IT.NET.USER.ZS,64.7
+Argentina,ARG,2013,Individuals using the Internet (% of population),IT.NET.USER.ZS,59.9
+Argentina,ARG,2012,Individuals using the Internet (% of population),IT.NET.USER.ZS,55.8
+Argentina,ARG,2011,Individuals using the Internet (% of population),IT.NET.USER.ZS,51
+Argentina,ARG,2010,Individuals using the Internet (% of population),IT.NET.USER.ZS,45
+Argentina,ARG,2009,Individuals using the Internet (% of population),IT.NET.USER.ZS,34
+Argentina,ARG,2008,Individuals using the Internet (% of population),IT.NET.USER.ZS,28.1
+Argentina,ARG,2007,Individuals using the Internet (% of population),IT.NET.USER.ZS,25.9
+Argentina,ARG,2006,Individuals using the Internet (% of population),IT.NET.USER.ZS,20.9
+Argentina,ARG,2005,Individuals using the Internet (% of population),IT.NET.USER.ZS,17.7
+Argentina,ARG,2004,Individuals using the Internet (% of population),IT.NET.USER.ZS,16
+Argentina,ARG,2003,Individuals using the Internet (% of population),IT.NET.USER.ZS,11.9
+Argentina,ARG,2002,Individuals using the Internet (% of population),IT.NET.USER.ZS,10.9
+Argentina,ARG,2001,Individuals using the Internet (% of population),IT.NET.USER.ZS,9.78
+Argentina,ARG,2000,Individuals using the Internet (% of population),IT.NET.USER.ZS,7.04
+Argentina,ARG,1999,Individuals using the Internet (% of population),IT.NET.USER.ZS,3.28
+Argentina,ARG,1998,Individuals using the Internet (% of population),IT.NET.USER.ZS,0.831
+Argentina,ARG,1997,Individuals using the Internet (% of population),IT.NET.USER.ZS,0.28
+Argentina,ARG,1996,Individuals using the Internet (% of population),IT.NET.USER.ZS,0.142
+Argentina,ARG,1995,Individuals using the Internet (% of population),IT.NET.USER.ZS,0.0863
